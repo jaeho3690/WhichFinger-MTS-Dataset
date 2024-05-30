@@ -40,4 +40,9 @@ Please kindly refer to `Appendix E: Evaluation of CWRI Metrics` for further expl
 ## License for Data Use
 We apply the Creative Commons Attribution-NonCommercial 4.0 International License.
 
+
+## Special Thanks
+
+We are grateful to Prof. Sunghoon Lim, Gyeongho Kim, Sujin Jeon, and Jae Gyeong Choi for their invaluable contributions to our research. Their provision of the smart glove was essential for the WhichFinger data collection. For more information about the smart glove, visit [FTSAME](https://ftsame.com/).
+
 ## Citation
