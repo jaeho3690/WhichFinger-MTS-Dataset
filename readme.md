@@ -30,9 +30,12 @@ https://drive.google.com/drive/folders/16Xks-9O6BeTFHOba9-HZRZcnd2GnrUVg?usp=sha
 
 
 ## Contents
-- `notebook/01_preprocess_raw.ipynb`: This notebook contains the preprocessing script for WhichFinger
+- `notebook/01_preprocess_raw.ipynb`: This notebook contains the preprocessing script for the WhichFinger.
 - `notebook/02_evaluate_cwri.ipynb`: This notebook contains the minimal code to evaluate our CWRI score. 
 
 ## Ground Truth Evaluation
 ![GT](./figures/whichfinger_gt.png)
 Please kindly refer to `Appendix E: Evaluation of CWRI Metrics` for further explanation.
+
+## License for Data Use
+We apply the Creative Commons Attribution-NonCommercial 4.0 International License.
