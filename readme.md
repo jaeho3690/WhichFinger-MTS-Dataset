@@ -1,13 +1,13 @@
-# WhichFinger Dataset from CAFO: Feature-Centric Explanation on Time Series Classification [![Generic badge](https://img.shields.io/badge/code-official-green.svg)](https://shields.io/)
+# `WhichFinger` Dataset from CAFO: Feature-Centric Explanation on Time Series Classification [![Generic badge](https://img.shields.io/badge/code-official-green.svg)](https://shields.io/)
 ![Overview](./figures/WhichFinger.png)
 
-This is the WhichFinger Multivariate Time Series (MTS) dataset from the SIGKDD 2024 paper `CAFO: Feature-Centric Explanation on Time Series Classification` by **Jaeho Kim**, Seok-Ju (Adam) Hahn, Yoontae Hwang, Junghye Lee, and Seulki Lee. 
+This is the WhichFinger Multivariate Time Series (MTS) dataset from the SIGKDD 2024 paper `CAFO: Feature-Centric Explanation on Time Series Classification` by **Jaeho Kim**, Seok-Ju (Adam) Hahn, Yoontae Hwang, Junghye Lee, and Seulki Lee. Basically, we ask participants to repeat (a) and (b) from the figures for one minute. 
 
 
-## WhichFinger Dataset
+## The `WhichFinger` Dataset
 The WhichFinger Dataset is a multivariate time series (MTS) dataset, designed for eXplainable Artificial Intelligence (XAI) applications. This dataset offers comprehensive information on the data collection process for each class, as well as the features relevant to specific classes, which facilitates the validation of the CWRI measure. We created this dataset because, to the best of our knowledge, no public MTS datasets met the following three criteria: (1) strong prior knowledge or information regarding each feature's contribution to specific classes, (2) a sufficient number of classes $(C\geq2)$ and features $(D\geq2)$, and (3) an adequate number of samples $(N\geq1,000)$. In this section, we describe the detailed data collection process and the preprocessing steps involved in the creation of the dataset.
 
-Please kindly refer to `Appendix G: WhichFinger Dataset` for further details.
+Please kindly refer to `Appendix G: WhichFinger Dataset` of our paper for further details.
 
 ## Simple Statistics.
 - Total Sample Size: 18,010
@@ -39,3 +39,5 @@ Please kindly refer to `Appendix E: Evaluation of CWRI Metrics` for further expl
 
 ## License for Data Use
 We apply the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+## Citation
